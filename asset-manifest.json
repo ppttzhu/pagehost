@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.7c957036.chunk.js": "/static/js/0.7c957036.chunk.js",
+    "static/js/0.7c957036.chunk.js.map": "/static/js/0.7c957036.chunk.js.map",
+    "main.css": "/static/css/main.577964a1.chunk.css",
+    "main.js": "/static/js/main.9dc7284c.chunk.js",
+    "main.js.map": "/static/js/main.9dc7284c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2627085a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2627085a.js.map",
+    "static/css/3.0ab19e4e.chunk.css": "/static/css/3.0ab19e4e.chunk.css",
+    "static/js/3.ad244706.chunk.js": "/static/js/3.ad244706.chunk.js",
+    "static/js/3.ad244706.chunk.js.map": "/static/js/3.ad244706.chunk.js.map",
+    "static/js/4.96912e3b.chunk.js": "/static/js/4.96912e3b.chunk.js",
+    "static/js/4.96912e3b.chunk.js.map": "/static/js/4.96912e3b.chunk.js.map",
+    "static/js/5.efbf5f2e.chunk.js": "/static/js/5.efbf5f2e.chunk.js",
+    "static/js/5.efbf5f2e.chunk.js.map": "/static/js/5.efbf5f2e.chunk.js.map",
+    "static/js/6.4628213a.chunk.js": "/static/js/6.4628213a.chunk.js",
+    "static/js/6.4628213a.chunk.js.map": "/static/js/6.4628213a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.0ab19e4e.chunk.css.map": "/static/css/3.0ab19e4e.chunk.css.map",
+    "static/css/main.577964a1.chunk.css.map": "/static/css/main.577964a1.chunk.css.map",
+    "static/js/0.7c957036.chunk.js.LICENSE.txt": "/static/js/0.7c957036.chunk.js.LICENSE.txt",
+    "static/js/3.ad244706.chunk.js.LICENSE.txt": "/static/js/3.ad244706.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/themifyd41d.9bad9444.eot",
+    "static/media/PageNotFoundImg.9c0fa871.svg": "/static/media/PageNotFoundImg.9c0fa871.svg",
+    "static/media/ProductImg.b314322f.jpeg": "/static/media/ProductImg.b314322f.jpeg",
+    "static/media/US-flag.3585dc22.svg": "/static/media/US-flag.3585dc22.svg",
+    "static/media/language-en.b2e3036b.png": "/static/media/language-en.b2e3036b.png",
+    "static/media/language-zh.2f55dc8b.png": "/static/media/language-zh.2f55dc8b.png",
+    "static/media/login-bg.f5cd90b8.jpg": "/static/media/login-bg.f5cd90b8.jpg",
+    "static/media/suixing-logo.65753d8f.svg": "/static/media/suixing-logo.65753d8f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2627085a.js",
+    "static/css/3.0ab19e4e.chunk.css",
+    "static/js/3.ad244706.chunk.js",
+    "static/css/main.577964a1.chunk.css",
+    "static/js/main.9dc7284c.chunk.js"
+  ]
+}
